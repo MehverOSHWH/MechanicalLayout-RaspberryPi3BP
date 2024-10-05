@@ -8,5 +8,8 @@
 ## 1 简介 Description
 还原 RaspberryPi3BP 的机械布局。
 
-## 2 许可证
+Restore the mechanical layout of RaspberryPi3BP.
+
+
+## 2 许可证 License
 CC-BY-4.0
